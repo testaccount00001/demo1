@@ -4,6 +4,7 @@ public class WideClass1 {
 	//changed (see the changes below)
 	public Integer i1;
     // update 1
+    // update 23
 	
     public void method1(){
          try

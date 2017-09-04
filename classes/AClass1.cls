@@ -10,6 +10,5 @@ public class AClass1 {
     // comment with problem symbols '@3$~56__+= '   'and
     Double f1 = 0.1;
     // updated
-    Integer i19 = 1000;
     
 }

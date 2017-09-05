@@ -11,4 +11,5 @@ public class AClass1 {
     Double f1 = 0.1;
     // updated
     // last line
+    // last line longer than previous
 }

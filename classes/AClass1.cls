@@ -12,4 +12,5 @@ public class AClass1 {
     // updated
     // last line
     // last line longer than previous
+    // yet another change
 }

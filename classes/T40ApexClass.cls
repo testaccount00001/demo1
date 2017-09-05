@@ -6,6 +6,7 @@ public class T40ApexClass {
 //comment
 
  // updated 2nd time
+ // added  1 line     
     longVar0 += 2;
     longVar0 += 2;
     longVar0 += 2;
